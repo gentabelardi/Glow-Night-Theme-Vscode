@@ -1,0 +1,31 @@
+{
+  "name": "glow-night",
+  "displayName": "Glow Night",
+  "description": "i don't know, i love it this theme",
+  "version": "0.0.1",
+  "publisher": "Genta",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gentabelardi/GlowNight.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "glow night"
+  ],
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Glow Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Glow Night-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,8 +1,9 @@
 {
   "name": "glow-night",
   "displayName": "Glow Night",
+  "icon": "assets/logo.png",
   "description": "i don't know, i love it this theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Genta",
   "repository": {
     "type": "git",
